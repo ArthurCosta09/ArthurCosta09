@@ -3,7 +3,7 @@
 <br />
 
 <div class="coffe-box">
-    <center><img align="center" alt="COFFE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></center>
+    <img style="display: block; margin: 0 auto" alt="COFFE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/>
 </div>
 
 <br />
@@ -15,7 +15,7 @@ Tenho 22 anos, moro na cidade de Patos de Minas do estado de Minas Gerais. Sempr
 <br />
 
 <div class="monkey-dev-box">
-    <center><img alt="Monkey-dev" align="center" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif"/ width="300"></center>
+    <img alt="Monkey-dev" style="display: block; margin: 0 auto" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif"/ width="300">
 </div>
 
 <br />

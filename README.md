@@ -2,7 +2,7 @@
 
 <br />
 
-<div class="coffe-box">
+<div sytle="display: flex; justify-content: center; align-items: center">
     <img style="display: block; margin: 0 auto" alt="COFFE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/>
 </div>
 

@@ -1,21 +1,5 @@
 # Arthur Nazário da Costa 😎
 
-<style>
-    .coffe-box {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: row;
-    }
-
-    .monkey-dev-box {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: row;
-    }
-</style>
-
 <br />
 
 <div class="coffe-box">

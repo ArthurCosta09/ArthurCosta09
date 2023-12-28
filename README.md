@@ -2,7 +2,7 @@
 
 <br />
 
-**<p style="text-align: center"><img style="display: block; margin-left: auto; margin-right: auto" alt="COFFEE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></p>**
+<p style="text-align: center"><img style="display: block; margin-left: auto; margin-right: auto" alt="COFFEE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></p>
 
 <br />
 

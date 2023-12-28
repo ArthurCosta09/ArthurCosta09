@@ -2,9 +2,7 @@
 
 <br />
 
-<div sytle="display: flex; justify-content: center; align-items: center">
-    <p style="text-align: center"><img alt="COFFE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></p>
-</div>
+<p style="text-align: center"><img alt="COFFE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></p>
 
 <br />
 

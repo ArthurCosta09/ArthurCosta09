@@ -2,7 +2,7 @@
 
 <br />
 
-<p style="text-align: center"><img style="display: block; margin-left: auto; margin-right: auto" alt="COFFE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></p>
+![COFFEE](https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 <br />
 

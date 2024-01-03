@@ -148,6 +148,7 @@ Atualmente, sou estagiário da [Obers Sistemas e Consultoria Empresarial](https:
     <img alt="Gitlab" align="center" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="Arduino" align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img alt="Microbit" align="center" src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white"/>
+    <img alt="Wordpress" align="center" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </div>
 
 <br />

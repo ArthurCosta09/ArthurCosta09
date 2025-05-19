@@ -24,7 +24,7 @@ Já atuei como Gerente de Projetos do curso de Engenharia Eletrônica e de Telec
 
 Fui estagiário na empresa [ZOOM Education](https://zoom.education/), empresa líder no segmento de educação tecnológica. Eu era monitor de educação tecnológica onde eu dava suporte aos professores da disciplina de robótica na programação e montagem de robôs utilizando o EV3 da Lego.
 
-Atualmente, sou estagiário da [Obers Sistemas e Consultoria Empresarial](https://www.obers.com.br/site/home/). Estou no desenvolvimento de duas aplicações web de produção rural e dou apoio ao suporte caso haja problemas com o banco de dados. O banco de dados utilizado pela Obers é o Oracle Database.
+Atualmente, trabalho na [S2B Software](https://www.obers.com.br/site/home/). Estou no desenvolvimento de duas aplicações web de produção rural e dou apoio ao suporte caso haja problemas com o banco de dados. O banco de dados utilizado pela Obers é o Oracle Database.
 
 <br />
 

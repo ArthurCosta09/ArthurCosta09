@@ -1,11 +1,5 @@
 # Arthur Nazário da Costa 😎
 
-<br />
-
-<p style="text-align: center"><img style="display: block; margin-left: auto; margin-right: auto" alt="COFFEE" src="https://media.giphy.com/media/12yjKJaLB7DuG4/giphy.gif"/></p>
-
-<br />
-
 ## What's up ***DEVS*** ✌️
 
 Tenho 23 anos, moro na cidade de Patos de Minas do estado de Minas Gerais. Sempre gostei bastante do mundo da tecnologia que comecei a programar aos 15 anos em C++. Sou bastante focado🧐, gosto de aprender coisas novas🧠, curto jogar🎮 e assistir filmes e series📽️. Além disso, busco sempre ser a melhor versão de mim mesmo todos os dias em termos de confiança, liderança, empatia e socialização.
